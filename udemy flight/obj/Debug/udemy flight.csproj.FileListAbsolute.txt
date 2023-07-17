@@ -1,0 +1,11 @@
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\bin\Debug\udemy flight.exe.config
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\bin\Debug\udemy flight.exe
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\bin\Debug\udemy flight.pdb
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.csproj.SuggestedBindingRedirects.cache
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy_flight.Form1.resources
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy_flight.Properties.Resources.resources
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.csproj.GenerateResource.cache
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.exe
+C:\Users\ertug\Desktop\ORET Ertuğrul\C#\udemy flight\udemy flight\obj\Debug\udemy flight.pdb
